@@ -44,6 +44,7 @@ to the root of your SD card and reboot.
 ## System firmware support
 
 * 13.1.0
+* 13.2.0
 
 ## Questions and requests
 

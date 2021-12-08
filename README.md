@@ -9,7 +9,7 @@ using it, I tried many times to "adjust", but I simply would press a wrong butto
 was not comfortable.
 
 Luckily, if you're using standard Nintendo Switch joycons, you can still remap the buttons to your liking,
-despite the ugly remainder popup at every console boot or wakeup from sleep, this worked for me.
+and despite the ugly warning popup at every console boot or wakeup, this worked for me.
 
 ## The problem
 

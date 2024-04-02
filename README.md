@@ -55,6 +55,8 @@ to the root of your SD card and reboot.
 * 16.0.0
 * 16.0.1
 * 16.0.2
+* 17.0.0
+* 17.0.1
 
 ## Questions and requests
 

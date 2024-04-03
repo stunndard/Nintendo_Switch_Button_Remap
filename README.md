@@ -28,6 +28,7 @@ I was able to create an [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere
 
 * Works with standard Joycons, Hori Split Pad pro, or any other 3rd party controllers that connect to the Switch
 standard console rails.
+* Works with any game, system menu homebrew, etc.
 * The nasty reminder popup is now gone for good.
 
 ## Cons
@@ -39,7 +40,8 @@ allows to remap buttons for such controllers.
 ## Installation and requirements
 
 Just unzip the files downloaded from [Releases](https://github.com/stunndard/Nintendo_Switch_Button_Remap/releases)
-to the root of your SD card and reboot.
+to the root of your SD card and reboot. Use the archive with "AB" suffix for only A-B button swap, or use "ABXY" for A-B and X-Y button swap.
+Choose only one.
 
 ## System firmware support
 
